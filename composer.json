@@ -10,7 +10,6 @@
             "email": "hetengji@bamasoso.com"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=7.0"
     },
