@@ -2,7 +2,7 @@
 ```php
     /**
      * Notes: 统一数据返回格式
-     * author 何腾骥
+     * author XXXX
      * Date: 2019/8/8
      * Time: 10:14
      * @param int $code
@@ -23,7 +23,7 @@
     }
     /**
      * Notes:课程首页信息获取
-     * author 王金月
+     * author XXXX
      * Date: 2019/8/14
      * Time: 11:32
      * @return \Illuminate\Http\JsonResponse
